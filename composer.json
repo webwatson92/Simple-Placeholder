@@ -1,0 +1,16 @@
+{
+    "name": "dell/e-gboasouklou",
+    "type": "no",
+    "authors": [
+        {
+            "name": "Ouattara",
+            "email": "youssouf@optimizeafrika.com"
+        }
+    ],
+
+   "require" : {
+   			 "facebook/graph-sdk" : "~5.0",
+             "pubnub/pubnub": "3.8.3",
+        "fzaninotto/faker": "^1.7"
+ 		 }
+}

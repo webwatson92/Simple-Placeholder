@@ -1,0 +1,36 @@
+.btn {
+    padding: 8px 20px;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 100px;
+    white-space: nowrap;
+    line-height: 20px;
+    font-weight: 700;
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased;
+    color:#fff;
+}
+
+
+.btn:hover, .success:hover {
+    background: rgba(0, 142, 208, 0.46);
+    border-color: rgba(0, 142, 208, 0.46);
+}
+
+.valider {
+    padding: 8px 20px;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 100px;
+    white-space: nowrap;
+    cursor: pointer;
+    line-height: 20px;
+    font-weight: 700;
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased;
+    background-color:#fff;
+    color:#0099d3;
+    text-align: center;
+
+}
+

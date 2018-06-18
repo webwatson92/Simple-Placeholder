@@ -1,0 +1,48 @@
+/******************************************************************
+*                                                                 *
+*                       BY AZIZ TARGUI                            *
+******************************************************************/
+body {
+  background-color: #f34e0e;
+}
+
+.div-type {
+  padding-top:20%;
+  padding-left: 10%;
+}
+
+.img-type {
+  height: 120px;
+  width: 110px;
+}
+
+.div-country {
+  padding-top:20%;
+/* padding-left: 10%;*/
+}
+
+.div-type-border {
+    border-right: 2px solid #fff;
+    padding-right: 20px
+}
+
+.div-type-text {
+  color:#fff;
+  text-align: center;
+}
+
+.img-country {
+  height: 120px;
+  width: 110px;
+}
+
+.div-language {
+  padding-top:3%;
+  border-left: 4px solid #fff;
+/* padding-left: 10%;*/
+}
+
+.list {
+  list-style-image : none !important;
+  list-style-type : none !important;
+}
